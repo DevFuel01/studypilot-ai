@@ -30,7 +30,7 @@ StudyPilot AI is an AI-powered study planner that helps students generate person
 4. Add your AI API key securely
 5. Run on localhost or deploy
 
-## 🧠 What We Learned
+## 🧠 What I Learned
 - AI-driven planning logic
 - Adaptive scheduling systems
 - Building full-stack apps with PHP & MySQL
